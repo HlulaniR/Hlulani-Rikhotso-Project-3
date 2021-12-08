@@ -1,0 +1,64 @@
+.body{
+    background-color:black;
+    color:white;
+}
+.nad-div ul li a:hover{
+padding: 2px;
+border:1px solid white;
+border-radius: 5px;
+}
+.nad-div ul li a{
+color:rgb(255, 255, 255);
+}
+#welcome-div{
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 25%;
+}
+.about h1{
+    text-align: center;
+    padding-top: 5%;
+}
+.container{
+    display: flex;
+    padding: 5% 10% 15% 10%;
+}
+
+.container div img{
+    width: 300px;
+    height: 300px;
+    padding-right: 20px;
+}
+hr{
+    color:white;
+}
+.box{
+    width: 300px;
+    height: 250px;
+    margin-left: 8%;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.skills h1{
+    text-align: center;
+    padding-bottom: 3%;
+}
+.skills h2{
+    padding: 35% 35%;
+}
+.box-div{
+    margin: 10px 10px;
+    display: flex;
+}
+#skills{
+    padding-bottom: 25%;
+    padding-top: 10%;
+}
+.connect ul{
+    list-style-type: none;
+    display: flex;
+    padding-left: 45%;
+}
+.connect ul li{
+    padding-left: 10px;
+}
